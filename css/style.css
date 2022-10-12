@@ -1,0 +1,108 @@
+body{
+    margin: 0px;
+    height: 100%;
+    width: 100%;
+}
+header{
+    background: red;
+    text-decoration: none;
+    display: flex;
+    width: 100%;
+    height: 50px;
+}
+button{
+    color                : #fff;
+	border               :none;
+	background-color     : rgba(217, 212, 211, 0.8);
+	font-size            : 14px;
+	-moz-border-radius   : 3px;
+	border-radius        : 15em;
+	padding-top          : 10px;
+	padding-right        : 10px;
+	padding-bottom       : 17px;
+	padding-left         : 10px;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+
+.navbar{
+    font-family: 'Times New Roman', Times, serif;
+    flex-direction: row;
+    justify-content: center;
+    list-style: none;
+    display: flex;
+    margin-left: 300px;
+    margin-right: 200px;
+    margin-top: 3px;
+    margin-bottom: 3px;
+}
+.in{
+    height: 10px;
+    text-align: center;
+    margin-left: 15px;
+    margin-top: 15px;
+}
+label{
+    height: 10px;
+    text-align: center;
+    margin-left: 15px;
+    margin-top: 15px;
+}
+li{
+    margin-right: 10px;
+}
+p{
+    text-align: center;
+    margin: 0px;
+    padding-top: 15px;
+    font-size: 13px;
+
+
+}
+.sec{
+    background-color: black;
+    font-family: 'Times New Roman', Times, serif;
+    color: #fff;
+    text-align: center;
+    margin: 0px;
+    width: 100%;
+    height: 100px;
+}
+h3{
+    margin: 0px;
+    padding-top: 15px;
+    padding-bottom: 10px;
+}
+main{
+    background-color:red;
+    font-family: 'Times New Roman', Times, serif;
+    color: #fff;
+    text-align: center;
+    width: 100%;
+    height: 200px;
+}
+.h{
+    padding-top: 50px;
+}
+label{
+    color: #fff;
+}
+.foo{
+    width: 100%;
+    height: 300px;
+    text-align: center;
+    background-color: black;
+    color: #fff;
+
+}
+footer input{ 
+    margin-top: 50px;
+}
+footer p{
+    font-size: 18px;
+    padding-top: 5px;
+    font-family:'Times New Roman', Times, serif;
+}
+button:hover{
+    background-color: rgb(40, 41, 41);
+}
